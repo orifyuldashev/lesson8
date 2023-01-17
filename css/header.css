@@ -1,0 +1,99 @@
+.eng-boshi{
+    width: 100%;
+    min-width: 700px;
+    background-color: black;
+    height: 44px;
+}
+.n1337{
+    color:  #969696;
+    font-size: 12px;
+    /* align-items: center; */
+    margin-top: 14px;
+}
+.tel-bolimi{
+    display: flex ;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 1110px;  
+    margin: 0 auto;
+    display: flex;
+    height: 44px;
+}
+.chiqish, img{
+    height: 16px;
+}
+.ish-vaqti{
+    display: flex;
+    height: 44px;
+}
+.img-tel{
+    align-items: center ;
+    padding-top: 12px;
+    padding-right: 16px
+}
+.chiqish{
+    display: flex;
+}
+.reg{
+   color: #969696;
+   font-size: 12px;
+}
+.eshik{
+    margin-top: 12px;
+}
+.reg{
+    margin-top: 13px;
+    margin-left: 12px;
+}
+nav{
+    background-color: #0F0F0F;
+    height: 80px;
+}
+@font-face{
+    font-family: 'Post No Bills Jaffna';
+    src: url(../fonts/Aero\ Matics\ Stencil\ Bold.ttf)
+}
+.porten{
+font-family: 'Post No Bills Jaffna';
+color: white;
+/* align-items: center; */
+
+}
+.portern{
+ width: 1110px;
+ height: 80px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-between;
+}
+.ptn{
+    font-size: 36px;
+    padding-top: 20px;
+}
+.nastroyka, a{
+    text-transform: uppercase;
+    text-decoration: none;   
+    padding: 31px 20px  ;
+    color: #969696; 
+
+}
+.uzbek2{
+    color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.179);
+}
+.uzbek2:hover{
+    background-color: rgba(255, 255, 255, 0.523);
+    color: #0f0f0ffe;
+}
+.karzinka1{
+    width: 30px;
+    height: 30px;
+    /* margin-left: 61px; */
+}
+.karzinka{
+     width: 30px;
+     height: 30px;
+    display: inline-block;
+    margin-left: 45px;
+    margin-top: 20px;
+}
